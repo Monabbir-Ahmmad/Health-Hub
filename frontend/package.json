@@ -7,7 +7,7 @@
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.10.6",
     "@fontsource/roboto": "^4.5.3",
-    "@mui/icons-material": "^5.11.11",
+    "@mui/icons-material": "^5.11.16",
     "@mui/lab": "^5.0.0-alpha.128",
     "@mui/material": "^5.12.2",
     "@testing-library/jest-dom": "^5.16.5",
